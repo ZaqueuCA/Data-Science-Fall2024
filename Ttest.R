@@ -26,4 +26,15 @@ ttest = t.test(x,y)
 
 
 
+Welch Two Sample t-test
+
+data:  x and y
+t = 1.0336, df = 102.51, p-value = 0.3037
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1717994  0.5457389
+sample estimates:
+  mean of x   mean of y 
+ 0.14164879 -0.04532093 
+
 
